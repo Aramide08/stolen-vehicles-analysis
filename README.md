@@ -100,4 +100,13 @@ Vehicle thefts are rising rapidly in New Zealand, especially in big cities, and 
 
 By working together, police, car owners, and insurers can reduce theft rates and protect vehicles more effectively.  
 
+---
+
+## Interactive Dashboard
+
+View the live dashboard here: https://lookerstudio.google.com/reporting/5b03a498-750c-4bad-8344-f04baa728b9d
+
+> Built with Google Looker Studio
+
+
 
