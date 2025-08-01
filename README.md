@@ -54,17 +54,6 @@ Car thefts rise early in the year. Extra caution is needed after the holiday sea
 - Others include Nissan, Mazda, Ford, Honda.
 
 **By Vehicle Type:**  
-- Most stolen: **Station Wagons** (945 cases)  
-- Others: Saloons, Hatchbacks, Trailers, Utility vehicles  
-
-**By Model Year:**  
-- Most targeted: **2001–2008**  
-- Top year: **2005**
-
-**By Color:**  
-- Most stolen: **Silver** (1,200+ cases)  
-- Then: White, Black  
-- Least: Red and Blue
 
 **Insights:**
 -  Car Owners: If you drive a common make or own a silver/older car, you're more at risk.
