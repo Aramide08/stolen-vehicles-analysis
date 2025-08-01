@@ -110,7 +110,6 @@ Urban areas need stronger anti-theft systems, but rural areas shouldn't be ignor
 Vehicle thefts are rising rapidly in New Zealand, especially in big cities, and early in the year. Thieves are targeting common, older vehicles in neutral colors like silver.
 
 > By working together, police, car owners, and insurers can reduce theft rates and protect vehicles more effectively.  
-> **Data shows the pattern. Action drives the change.**Vehicle Theft in New Zealand (2021–2022) Analysis Report
 Prepared by: Rukayat Tokosi
 Date: July 31, 2025
 Data Source: Mavin Analytics Data Playground - Motor Vehicle Thefts
@@ -223,7 +222,6 @@ Focus on theft-prone vehicle types and brands
 
 
 Promote community safety programs, CCTV, and vehicle etching
-
 
 For Car Owners:
 If you own a car from 2001–2008, install extra security (e.g., alarms, steering locks)
